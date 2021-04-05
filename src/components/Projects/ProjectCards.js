@@ -13,10 +13,10 @@ function ProjectCards(props) {
         <Card.Text style={{ textAlign: "justify" }}>
           {props.description}
         </Card.Text>
-        <Button variant="primary" href={props.link} target="_blank">
+        <Button variant="primary" href={props.link} target="_blank" rel="noreferrer">
           {props.isBlog ? "View Blog" : "View Project"}
         </Button>&nbsp;
-        <Button variant="primary" href={props.demolink} target="_blank">
+        <Button variant="primary" href={props.demolink} target="_blank" rel="noreferrer">
           {props.isBlog ? "View Blog" : "Demo"}
         </Button>
       </Card.Body>

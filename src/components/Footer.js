@@ -21,25 +21,25 @@ function Footer() {
               <a
                 href="https://github.com/neetasawant"
                 style={{ color: "white" }}
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <i className="fab fa-github"></i>
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
+                href=""
                 style={{ color: "white" }}
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <i className="fab fa-twitter"></i>
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
+                href="https://www.linkedin.com/in/neeta-sawant/"
                 style={{ color: "white" }}
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <i className="fab fa-linkedin-in"></i>
               </a>
@@ -48,7 +48,7 @@ function Footer() {
               <a
                 href="https://www.instagram.com/_neeta.designs_"
                 style={{ color: "white" }}
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <i className="fab fa-instagram"></i>
               </a>
